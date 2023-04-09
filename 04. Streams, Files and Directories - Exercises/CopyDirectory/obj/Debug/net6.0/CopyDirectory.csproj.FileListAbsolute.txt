@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.exe
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.deps.json
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.dll
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\net6.0\CopyDirectory.pdb
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.dll
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\refint\CopyDirectory.dll
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.pdb
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\CopyDirectory.genruntimeconfig.cache
+C:\Users\HP\source\repos\C# Advanced\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\net6.0\ref\CopyDirectory.dll

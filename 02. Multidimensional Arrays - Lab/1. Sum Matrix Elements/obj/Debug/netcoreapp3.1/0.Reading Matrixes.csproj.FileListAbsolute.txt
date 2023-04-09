@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\0.Reading Matrixes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\0.Reading Matrixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\0.Reading Matrixes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\0.Reading Matrixes.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\0.Reading Matrixes.csproj.CoreCompileInputs.cache

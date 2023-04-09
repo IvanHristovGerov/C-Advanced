@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements1.exe
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements1.deps.json
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements1.runtimeconfig.json
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements1.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements1.dll
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements1.pdb
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.dll
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.pdb
+C:\Users\HP\source\repos\C# Advanced\Multidimensional Arrays - Lab\1. Sum Matrix Elements1\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements1.genruntimeconfig.cache
